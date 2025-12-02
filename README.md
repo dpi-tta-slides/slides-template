@@ -1,6 +1,4 @@
-# DPI-WE Slides
-
-
+# dpi-tta-slides
 
 **The good starter example for using [Marp] via [Marp CLI].**
 
